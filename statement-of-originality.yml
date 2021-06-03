@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Radu Deacu
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -13,14 +13,20 @@ declaration: >-
 collaboration:
   - name:
     comment: >-
-      
+
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment: Desi functionalitea de baza fost implementata in mare parte de pe
+  https://docs.cycling74.com/max8/tutorials/08-Audio%20into%20a%20matrix ,
+  link mentionat si  in Readme, acest video m-a ajutat sa fac efectiv partea de
+  vizualizare adaugand  partea de @drawto amp si de enable floating window.
+  In acest video creatorul merge mai departe si adauga si secvente video peste
+  moving shape-ul lui, lucru care mi-a dat ideea de a  adauga la randul meu
+  de exemplu videoclipul piesei pe care o redau.
+    url: https://www.youtube.com/watch?v=yqI39xxTiDs
+    licence: MIT
 
 
 # add as many "url+licence+comment" entries as necessary
